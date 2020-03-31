@@ -1,5 +1,3 @@
-# 1-graph
-
 ### Basic terms
 
 **Adjoint graph** G= (V,A) directed graph H=(U,V) is 1-graph, that vertexes represent links from H and that have link from x to y, if in H end-vertex link x is first-vertex link y. 
