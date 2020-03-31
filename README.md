@@ -5,7 +5,9 @@
 **Directed linear graph is adjoint graph G of 1-graph H.** 
 
 **1-graph** G=(V,A) is adjoint graph if and only when property is true for each pair x,y ∈ V:
+
 N+(x) ∩ N+(y) ≠ Ø ⇒ N+(x) = N+(y)
+
 when N+(x) is a set of successors x. :nerd_face:
 
 For directed graph: adjoint graph is linear if and only when it doesn't have as subgraph any of the shown below structures:
