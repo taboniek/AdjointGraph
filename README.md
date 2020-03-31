@@ -1,4 +1,4 @@
-### Basic terms
+## Basic terms
 
 **Adjoint graph** G= (V,A) directed graph H=(U,V) is 1-graph, that vertexes represent links from H and that have link from x to y, if in H end-vertex link x is first-vertex link y. 
 
@@ -12,7 +12,7 @@ For directed graph: adjoint graph is linear if and only when it doesn't have as 
 
 ![Images of stuctures](/images/structures.png)
 
-### What does this alghoritm?
+## What does this alghoritm?
 
 - reads from txt-file directed graph as list of successors in given format: 
 ```
