@@ -17,9 +17,10 @@ For directed graph: adjoint graph is linear if and only when it doesn't have as 
 ### What does this alghoritm?
 
 - reads from txt-file directed graph as list of successors in given format: 
-
+```
 *count of all vertexes*
-* number of vertex*  *successors separated tabbing*
+*number of vertex*  *successors separated tabbing*
+```
 
 Example: 
 ```
